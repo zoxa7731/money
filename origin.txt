@@ -1,0 +1,120 @@
+Uri: https://sid-money.biz/
+File Name: c:\Downloaded Web Sites\sid-money.biz\index.htm
+Content Type: text/html
+
+Uri: https://sid-money.biz/style/style.css
+File Name: c:\Downloaded Web Sites\sid-money.biz\style\style.css
+Content Type: text/css
+
+Uri: https://sid-money.biz/style/main.css
+File Name: c:\Downloaded Web Sites\sid-money.biz\style\main.css
+Content Type: text/css
+
+Uri: https://sid-money.biz/favicon.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\favicon.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/about
+File Name: c:\Downloaded Web Sites\sid-money.biz\about.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/news
+File Name: c:\Downloaded Web Sites\sid-money.biz\news.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/rules
+File Name: c:\Downloaded Web Sites\sid-money.biz\rules.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/payments
+File Name: c:\Downloaded Web Sites\sid-money.biz\payments.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/contacts
+File Name: c:\Downloaded Web Sites\sid-money.biz\contacts.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/signup
+File Name: c:\Downloaded Web Sites\sid-money.biz\signup.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/recovery
+File Name: c:\Downloaded Web Sites\sid-money.biz\recovery.html
+Content Type: text/html
+
+Uri: https://sid-money.biz/js/jquery.js
+File Name: c:\Downloaded Web Sites\sid-money.biz\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://sid-money.biz/js/functions.js
+File Name: c:\Downloaded Web Sites\sid-money.biz\js\functions.js
+Content Type: application/javascript
+
+Uri: https://sid-money.biz/img/fon4.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\fon4.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/gift-1.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\gift-1.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/1.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\1.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/ir.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\ir.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/pak.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\pak.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/oae.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\oae.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/pt.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\pt.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/es.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\es.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/id.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\id.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/ko.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\ko.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/ch.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\ch.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/en.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\en.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/ru.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\ru.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/lang/vi.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\lang\vi.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/acch.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\acch.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/kaplya.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\kaplya.png
+Content Type: image/png
+
+Uri: https://sid-money.biz/img/func-bg.png
+File Name: c:\Downloaded Web Sites\sid-money.biz\img\func-bg.png
+Content Type: image/png
+
